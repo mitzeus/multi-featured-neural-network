@@ -13,7 +13,7 @@ Use Start.ipynb to interact, manage, run and test the Neural Network.
 
 Project for course "Mathematics for Machine Learning (MA4029)", 7.5 HP
 
-Created by: Dennis Mitzeus - 70002183, Halmstad University
+Created by: Alma Mitzeus - 70002183, Halmstad University
 
 Written: 2024-05-13
 Updated: 2024-05-13
